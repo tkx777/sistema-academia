@@ -1,19 +1,6 @@
 Sistema Academia
 Uma breve descrição do projeto, sua finalidade e principais funcionalidades.
 
-Índice
-Sobre o Projeto
-Funcionalidades
-Pré-requisitos
-Instalação
-Como Usar
-Estrutura do Projeto
-Contribuição
-Licença
-Contato
-Sobre o Projeto
-Descreva em poucas linhas o objetivo do sistema.
-Exemplo:
 O Sistema Academia é uma aplicação desktop para cadastro, consulta, edição e exclusão de registros de alunos, funcionários e professores, com autenticação de usuários e geração de relatórios, desenvolvida em Python com interface Tkinter.
 
 Funcionalidades
@@ -29,19 +16,6 @@ Python 3.8+
 Sistema operacional: Windows (diretórios fixos), mas pode ser adaptado
 Instalação
 bash
-git clone https://github.com/tkx777/sistema-academia.git
-cd sistema-academia
-# (Opcional) Crie um ambiente virtual:
-python -m venv venv
-source venv/bin/activate # Linux/Mac
-venv\Scripts\activate    # Windows
-# Instale dependências se houver um requirements.txt
-pip install -r requirements.txt
-Como Usar
-Execute o arquivo principal:
-bash
-python main.py
-O sistema criará as pastas e o arquivo de usuários automaticamente na primeira execução.
 Acesse com o usuário padrão:
 Usuário: ADM
 Senha: administrator
@@ -71,5 +45,7 @@ Licença
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 Contato
-Autor: Seu Nome
-Email: seu@email.com
+
+Autor: rafael sena
+
+Email: rafaelsena221@gmail.com
